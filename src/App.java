@@ -7,5 +7,8 @@ public class App {
         System.out.println("esto es una funcion");
     }
 
+    public static void funcionCaballo() {
+        System.out.println("El caballo se mueve en L");
+    }
 
 }
